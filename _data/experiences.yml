@@ -1,0 +1,54 @@
+- experience:
+  role: Infrastructure Manager
+  time: 2014 - Present
+  company: Gaming Realms PLC, London
+  details: "Hands-on leadership of the team responsible for designing, building and running Gaming
+  Realms global gaming infrastructure. Running on hybrid cloud architecture, our
+  in-house gaming platform supports 12 (and counting) casino platforms, whilst our
+  remote gaming systems in North America, Asia and Europe allow our games to be
+  integrated with other casino operators. Core technologies include Puppet, ELK, AWS,
+  Terraform, Packer, Docker, Gitlab CI."
+- experience:
+  role: Infrastructure Manager
+  time: 2011 - 2014
+  company: BeJig, London
+  details: "BeJig was a social gaming startup specialising in games for the Facebook
+  platform. I built most of the AWS-based infrastructure from scratch and implemented
+  configuration management on all servers back in the dark days when everyone wrote
+  their own Puppet modules. I created a self-service environment provisionment system
+  in Ruby on Rails to allow developers to create their own integration environments,
+  and implemented local development environments using Vagrant."
+- experience:
+  role: Integration Engineer
+  time: 2010 - 2011
+  company: Gamesys, London
+  details: "Joining the company's fledgling DevOps endeavour in 2010 I worked on
+  automating provisionment of development VMs using Cobbler for OS installation
+  and a hand-rolled collection of Bash and Perl scripts for configuration management,
+  which we later migrated to Puppet code."
+- experience:
+  role: QA Engineer
+  time: 2006 - 2010
+  company: Gamesys, London
+  details: "Working in an agile environment I was responsible for writing and
+  executing functional test scripts using a variety tools including TestMaker,
+  Selenium, Fit and Canoo Webtest. Gained experience using Linux whilst administering
+  test environments."
+- experience:
+  role: Business Analyst
+  time: 2004 - 2005
+  company: ANZ Bank, Melbourne
+  details: "Working in the International Payments department, responsible for analysing
+  high-level business specs and working with the Testing department to convert these
+  into testable requirements."
+- experience:
+  role: Test Analyst
+  time: 2001 - 2004
+  company: ANZ Bank, Melbourne
+  details: "Working in the International Payments department on a project to implement
+  a new payments system. Writing detailed test scripts based on functional requirements,
+  and managing these using Test Director. Testing that the new system could interface
+  with existing and legacy systems within the bank. Providing help desk support for
+  users whilst the system was being rolled out.
+  After the roll-out in Australia, I travelled to New Zealand to provide testing support
+  for the roll-out there."

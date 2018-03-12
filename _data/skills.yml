@@ -1,0 +1,18 @@
+- skill:
+  name: Puppet
+  level: 90%
+- skill:
+  name: AWS
+  level: 90%
+- skill:
+  name: Docker
+  level: 75%
+- skill:
+  name: Terraform
+  level: 75%
+- skill:
+  name: Ruby
+  level: 75%
+- skill:
+  name: ELK
+  level: 75%
