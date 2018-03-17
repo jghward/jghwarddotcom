@@ -1,10 +1,10 @@
 # Site Settings
-title: My Resume
+title: Jon Ward - My Resume
 url: 'https://jghward.com'
-baseurl: '/online-cv' #change it according to your repository name
+baseurl: '' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
-#style: styles-2
+style: styles-2
 #style: styles-3
 #style: styles-4
 #style: styles-5
@@ -14,14 +14,37 @@ baseurl: '/online-cv' #change it according to your repository name
 name: Jon Ward
 tagline: Cloud Infrastructure Engineer
 pic: jonward.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: "DevOps-fuelled Linux sysadmin and cloud architect. Passionate about creating automated, scalable infrastructure-as-code."
+summary: "<b>DevOps-fuelled Linux sysadmin and cloud architect. Passionate about creating automated,
+scalable, repeatable infrastructure.</b>
+<p>
+My interest in automation began 12 years ago when I began automating testing tasks that I had
+previously been performing manually as a QA. Through learning testing tools I gained exposure
+to scripting languages and working with Linux, administering test environments that the scripts
+ran on.
+<p>
+In 2010 I discovered a project concerned with automating the provisionment of test environments, 
+the lack of which had become a bottleneck within the company. Joining up, I found a lot of the
+skills I had learned in test automation could be applied to the early configuration managemment
+tools we were building, and I was delighted that my role combined these skills with my more recent
+interests in scripting and system administration.
+<p>
+In 2011 I was lucky enough to be invited to join a much smaller company as Head of Infrastructure,
+giving me a chance to build not only development, but production infrastructure and working for
+the first time exclusively in the public cloud, which allowed much more rapid, repeatable results.
+As the company grew over the years I built up a small team around me and between us we continue
+to improve the reliability and scalability of our infrastructure, embracing new technologies such
+as containers, and, more recently, serverless architecture.
+<p>
+After almost seven years I have decided it is time to hand over the reigns and begin the next
+chapter in my career path. I am currently seeking new opportunities and am available from late
+May 2018."
 # 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 #You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
 #commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
 #montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
 
 #sidebar links
-email: hello@jghward.com
+email: jghward@gmail.com
 website: jghward.com #do not add http://
 linkedin: jghward
 twitter: '@jghward'

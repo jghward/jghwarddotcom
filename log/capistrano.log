@@ -33,3 +33,38 @@
  DEBUG [05db42d3] 	‘git’
  DEBUG [05db42d3] 	: No such file or directory
  DEBUG [05db42d3] 	
+  INFO ---------------------------------------------------------------------------
+  INFO START 2018-03-12 21:48:09 +0000 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [7bd5f648] Running /usr/bin/env mkdir -p /tmp as jon@178.62.30.249
+ DEBUG [7bd5f648] Command: /usr/bin/env mkdir -p /tmp
+  INFO [7bd5f648] Finished in 1.125 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-jghwarddotcom-production-jon.sh 0.0%
+  INFO Uploading /tmp/git-ssh-jghwarddotcom-production-jon.sh 100.0%
+  INFO [e357a31b] Running /usr/bin/env chmod 700 /tmp/git-ssh-jghwarddotcom-production-jon.sh as jon@178.62.30.249
+ DEBUG [e357a31b] Command: /usr/bin/env chmod 700 /tmp/git-ssh-jghwarddotcom-production-jon.sh
+  INFO [e357a31b] Finished in 0.212 seconds with exit status 0 (successful).
+  INFO [8f04005a] Running /usr/bin/env git ls-remote _site HEAD as jon@178.62.30.249
+ DEBUG [8f04005a] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-jghwarddotcom-production-jon.sh" ; /usr/bin/env git ls-remote _site HEAD )
+ DEBUG [8f04005a] 	/usr/bin/env: 
+ DEBUG [8f04005a] 	‘git’
+ DEBUG [8f04005a] 	: No such file or directory
+ DEBUG [8f04005a] 	
+  INFO ---------------------------------------------------------------------------
+  INFO START 2018-03-12 21:49:14 +0000 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [e9531b64] Running /usr/bin/env mkdir -p /tmp as jon@178.62.30.249
+ DEBUG [e9531b64] Command: /usr/bin/env mkdir -p /tmp
+  INFO [e9531b64] Finished in 1.040 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-jghwarddotcom-production-jon.sh 0.0%
+  INFO Uploading /tmp/git-ssh-jghwarddotcom-production-jon.sh 100.0%
+  INFO [56d3f183] Running /usr/bin/env chmod 700 /tmp/git-ssh-jghwarddotcom-production-jon.sh as jon@178.62.30.249
+ DEBUG [56d3f183] Command: /usr/bin/env chmod 700 /tmp/git-ssh-jghwarddotcom-production-jon.sh
+  INFO [56d3f183] Finished in 0.217 seconds with exit status 0 (successful).
+  INFO [44bf0644] Running /usr/bin/env git ls-remote _site HEAD as jon@178.62.30.249
+ DEBUG [44bf0644] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-jghwarddotcom-production-jon.sh" ; /usr/bin/env git ls-remote _site HEAD )
+ DEBUG [44bf0644] 	fatal: '_site' does not appear to be a git repository
+ DEBUG [44bf0644] 	fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.

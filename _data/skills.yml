@@ -1,18 +1,24 @@
 - skill:
-  name: Puppet
-  level: 90%
+  name: Linux Sysadmin
+  level: 85%
 - skill:
-  name: AWS
-  level: 90%
+  name: Configuration Management (Puppet)
+  level: 85%
 - skill:
-  name: Docker
+  name: Cloud Computing (AWS)
+  level: 85%
+- skill:
+  name: Containerisation (Docker)
   level: 75%
 - skill:
-  name: Terraform
+  name: Infrastructure-as-Code (Terraform)
   level: 75%
 - skill:
-  name: Ruby
+  name: Scripting (Ruby, Bash)
   level: 75%
 - skill:
-  name: ELK
+  name: Centralised Logging (ELK)
+  level: 75%
+- skill:
+  name: Metrics Gathering (Graphite/Grafana)
   level: 75%
