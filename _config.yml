@@ -4,8 +4,8 @@ url: 'https://jghward.com'
 baseurl: '' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
-style: styles-2
-#style: styles-3
+#style: styles-2
+style: styles-3
 #style: styles-4
 #style: styles-5
 #style: styles-6
@@ -28,11 +28,11 @@ skills I had learned in test automation could be applied to the early configurat
 tools we were building, and I was delighted that my role combined these skills with my more recent
 interests in scripting and system administration.
 <p>
-In 2011 I was lucky enough to be invited to join a much smaller company as Head of Infrastructure,
+In 2011 I was invited to join a much smaller company as Head of Infrastructure,
 giving me a chance to build not only development, but production infrastructure and working for
 the first time exclusively in the public cloud, which allowed much more rapid, repeatable results.
 As the company grew over the years I built up a small team around me and between us we continue
-to improve the reliability and scalability of our infrastructure, embracing new technologies such
+to improve the reliability, security and scalability of our infrastructure, embracing new technologies such
 as containers, and, more recently, serverless architecture.
 <p>
 After almost seven years I have decided it is time to hand over the reigns and begin the next
@@ -60,4 +60,8 @@ compress_html: # - http://jch.penibelst.de/
   ignore:
     envs: development
 
-host: 192.168.0.16
+host: 127.0.0.1
+
+plugins:
+  - jekyll-assets
+  - jekyll-pdf
