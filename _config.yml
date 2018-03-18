@@ -17,27 +17,27 @@ pic: jonward.png  #place a 100x100 picture inside /assets/images/ folder and pro
 summary: "<b>DevOps-fuelled Linux sysadmin and cloud architect. Passionate about creating automated,
 scalable, repeatable infrastructure.</b>
 <p>
-My interest in automation began 12 years ago when I began automating testing tasks that I had
-previously been performing manually as a QA. Through learning testing tools I gained exposure
-to scripting languages and working with Linux, administering test environments that the scripts
-ran on.
+My interest in automation began 12 years ago when I started automating functional tests that I had
+previously been performing manually as a QA. Through learning various open-source testing tools I
+also gained exposure to scripting languages such as Python and Perl, and working with the Linux
+command-line, administering test environments that the scripts ran on.
 <p>
-In 2010 I discovered a project concerned with automating the provisionment of test environments, 
-the lack of which had become a bottleneck within the company. Joining up, I found a lot of the
-skills I had learned in test automation could be applied to the early configuration managemment
-tools we were building, and I was delighted that my role combined these skills with my more recent
-interests in scripting and system administration.
+In 2010 I heard of a new project within the company I was working for, the aim of which was to
+automate theprovisionment of test environments, the lack of which had become a bottleneck within the
+company. Joining up, I found a lot of the skills I had learned in test automation could be applied
+to the early configuration managemment tools we were building, and I was delighted that my role
+combined these skills with my more recent interests in scripting and systems administration.
 <p>
 In 2011 I was invited to join a much smaller company as Head of Infrastructure,
 giving me a chance to build not only development, but production infrastructure and working for
 the first time exclusively in the public cloud, which allowed much more rapid, repeatable results.
 As the company grew over the years I built up a small team around me and between us we continue
-to improve the reliability, security and scalability of our infrastructure, embracing new technologies such
-as containers, and, more recently, serverless architecture.
+to improve the reliability, security and scalability of our infrastructure, embracing new technologies
+such as containers, and, more recently, serverless architecture.
 <p>
 After almost seven years I have decided it is time to hand over the reigns and begin the next
-chapter in my career path. I am currently seeking new opportunities and am available from late
-May 2018."
+chapter in my career path. I am currently seeking new challenges and opportunities and am available
+from late May 2018."
 # 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 #You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
 #commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
