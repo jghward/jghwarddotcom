@@ -17,21 +17,19 @@ pic: jonward.png  #place a 100x100 picture inside /assets/images/ folder and pro
 summary: "<b>DevOps-fuelled Linux sysadmin and cloud architect. Passionate about creating automated,
 scalable, repeatable infrastructure.</b>
 <p>
-My interest in automation began 12 years ago when I started automating functional tests that I had
-previously been performing manually as a QA. Through learning various open-source testing tools I
-also gained exposure to scripting languages such as Python and Perl, and working with the Linux
+My interest in automation began 12 years ago when I started converting functional test scripts that I had been running manually into an automated suite. Alongside learning various open-source testing tools I
+also gained exposure to scripting languages such as Python and Perl, and the Linux
 command-line, administering test environments that the scripts ran on.
 <p>
-In 2010 I heard of a new project within the company I was working for, the aim of which was to
-automate theprovisionment of test environments, the lack of which had become a bottleneck within the
-company. Joining up, I found a lot of the skills I had learned in test automation could be applied
-to the early configuration managemment tools we were building, and I was delighted that my role
+In 2010 I heard of a new project within the company to automate the provisionment of test environments, the lack of which had become a bottleneck within the
+development lifecycle. Joining this, I found a lot of the skills I had learnt in test automation could be applied
+to the early configuration management tools we were building, and I was delighted that my role
 combined these skills with my more recent interests in scripting and systems administration.
 <p>
-In 2011 I was invited to join a much smaller company as Head of Infrastructure,
+In 2011 I was invited to join a social gaming startup as Head of Infrastructure,
 giving me a chance to build not only development, but production infrastructure and working for
-the first time exclusively in the public cloud, which allowed much more rapid, repeatable results.
-As the company grew over the years I built up a small team around me and between us we continue
+the first time exclusively in the public cloud, allowing much more rapid and repeatable results.
+As the company grew over the years I built up a team around me and between us we continue
 to improve the reliability, security and scalability of our infrastructure, embracing new technologies
 such as containers, and, more recently, serverless architecture.
 <p>
@@ -62,6 +60,9 @@ compress_html: # - http://jch.penibelst.de/
 
 host: 127.0.0.1
 
+pdf:
+  disable_smart_shrinking: true
+
 plugins:
-  - jekyll-assets
-  - jekyll-pdf
+  -  jekyll-assets
+  -  jekyll-pdf
