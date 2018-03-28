@@ -1,11 +1,11 @@
 - skill:
-  name: Linux Sysadmin
+  name: Cloud Computing (AWS)
+  level: 85%
+- skill:
+  name: Linux Systems Administration
   level: 85%
 - skill:
   name: Configuration Management (Puppet)
-  level: 85%
-- skill:
-  name: Cloud Computing (AWS)
   level: 85%
 - skill:
   name: Containerisation (Docker)

@@ -14,8 +14,8 @@ style: styles-3
 name: Jon Ward
 tagline: Cloud Infrastructure Engineer
 pic: jonward.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: "<b>DevOps-fuelled Linux sysadmin and cloud architect. Passionate about creating automated,
-scalable, repeatable infrastructure.</b>
+summary: "<b>DevOps-enamoured Linux sysadmin and cloud architect. Passionate about creating automated,
+scalable, repeatable and secure infrastructure.</b>
 <p>
 My interest in automation began 12 years ago when I started converting functional test scripts that I had been running manually into an automated suite. Alongside learning various open-source testing tools I
 also gained exposure to scripting languages such as Python and Perl, and the Linux
